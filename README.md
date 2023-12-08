@@ -1,6 +1,4 @@
-Hi 👋 My name is Khant Loon Thu 
-
-===============================
+Hi 👋 My name is Khant Loon Thu <img src="" />
 
 I am a junior frontend developer from Myanmar, I enjoy making dynamic websites using React and Vue.
 
