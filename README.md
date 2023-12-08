@@ -1,4 +1,4 @@
-Hi 👋 My name is Khant Loon Thu <img src="https://giphy.com/embed/OjI3iowbHLmoY7n98e" width="20" height="20" />
+Hi 👋 My name is Khant Loon Thu <img src="[https://giphy.com/embed/OjI3iowbHLmoY7n98e](https://giphy.com/stickers/aminalstickers-OjI3iowbHLmoY7n98e)" width="20" height="20" />
 
 ===============================
 
