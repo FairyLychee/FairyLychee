@@ -1,20 +1,35 @@
 # Hi, My name is Khant Loon Thu [<img src="https://raw.githubusercontent.com/FairyLychee/FairyLychee/main/bird.webp" width="30" height="30" />](https://github.com/FairyLychee/FairyLychee/blob/main/bird.webp) !👋
 
+## 👤 About me
 I am a junior frontend developer from Myanmar, and I enjoy making dynamic websites using React and Vue.
 
 * 🌍 I'm based in Myanmar/Mandalay
 * 🧠 I'm learning React and Vue
 
-## Languages and Tools
-
-
 ## 📚 Education
 * High School Graduate
   
-## 📫Reach Me
+## 🔧 Languages and Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  </a>
+</p>
+
+## 📫 Reach Me
 * ✉️ You can contact me at [khantloonthu66@gmail.com](mailto:khantloonthu66@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FairyLychee)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FairyLychee&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FairyLychee&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FairyLychee&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairyLychee&layout=compact&theme=radical&height=150" alt="Top Langs" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=FairyLychee&show_icons=true&theme=radical&height=150" alt="Anurag's GitHub stats" height="200">
+</p>
